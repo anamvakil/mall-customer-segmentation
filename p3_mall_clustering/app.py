@@ -32,7 +32,7 @@ st.set_page_config(
 )
 
 st.title("Mall Customer Segmentation — KMeans Clustering")
-st.caption("CST2216 — Business Intelligence System Infrastructure | Algonquin College")
+st.caption("Machine Learning | Algonquin College")
 st.markdown("---")
 
 
